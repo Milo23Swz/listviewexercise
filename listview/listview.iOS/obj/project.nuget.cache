@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mRfK98P8MXTsdU9+pwHmk9eShy4LP4CiY8kyWwIOOcrNtob/jAbDfOGhxduEUGoEAMR+VwtvTsQOlCwxqWurUg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Emilio Swartz\\source\\repos\\listview\\listview\\listview.iOS\\listview.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}

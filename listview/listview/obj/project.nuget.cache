@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "x/hMwdPmhv7bMqiSxi8gQMVOciHcjDbi0MVTPDAP41W4/9BU0P5r/TNaA19s4G6hUkhU9nns9QoxZDfuygvI5w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Emilio Swartz\\source\\repos\\listview\\listview\\listview\\listview.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Emilio Swartz\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Emilio Swartz\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Emilio Swartz\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}
